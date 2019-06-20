@@ -4,3 +4,4 @@ Data source of this project is from Kaggle: https://www.kaggle.com/nikhilpandey3
 
 * **Data Preprocessing, Exploratory Data Analysis & Transferred Learning**: Transferred learning_resnet_inception_inceptionresnet.ipynb
 * **Feature Extraction & SVM**: feature-extraction-resnet50-svm.ipynb
+* Preseantation slides: X-ray project final presentation.pdf
