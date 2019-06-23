@@ -14,5 +14,5 @@ https://nbviewer.jupyter.org/github/weixiong-1990/Chest-X-ray-Images-for-TB-Iden
 https://github.com/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/lung-segmentation-from-chest-x-ray-dataset.ipynb
 or
 https://nbviewer.jupyter.org/github/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/lung-segmentation-from-chest-x-ray-dataset.ipynb
-* Preseantation slides: 
+* **Preseantation slides**: 
 https://github.com/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/X-ray%20project%20final%20presentation.pdf
