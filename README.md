@@ -3,16 +3,13 @@ This repository covers jupyter notebooks and presentation slides for the final p
 Data source of this project is from Kaggle: https://www.kaggle.com/nikhilpandey360/chest-xray-masks-and-labels
 
 * **Data Preprocessing, Exploratory Data Analysis & Transferred Learning**: 
-https://github.com/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/Transferred%20learning_resnet_inception_inceptionresnet.ipynb
-or 
-https://nbviewer.jupyter.org/github/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/Transferred%20learning_resnet_inception_inceptionresnet.ipynb
+  * https://github.com/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/Transferred%20learning_resnet_inception_inceptionresnet.ipynb
+  * or https://nbviewer.jupyter.org/github/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/Transferred%20learning_resnet_inception_inceptionresnet.ipynb
 * **Feature Extraction & SVM**:
-https://github.com/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/feature-extraction-resnet50-svm.ipynb
-or
-https://nbviewer.jupyter.org/github/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/feature-extraction-resnet50-svm.ipynb
+  * https://github.com/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/feature-extraction-resnet50-svm.ipynb
+  * or https://nbviewer.jupyter.org/github/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/feature-extraction-resnet50-svm.ipynb
 * **Image Segmentation**:
-https://github.com/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/lung-segmentation-from-chest-x-ray-dataset.ipynb
-or
-https://nbviewer.jupyter.org/github/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/lung-segmentation-from-chest-x-ray-dataset.ipynb
+  * https://github.com/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/lung-segmentation-from-chest-x-ray-dataset.ipynb
+  * or https://nbviewer.jupyter.org/github/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/lung-segmentation-from-chest-x-ray-dataset.ipynb
 * **Preseantation slides**: 
 https://github.com/weixiong-1990/Chest-X-ray-Images-for-TB-Identification/blob/master/X-ray%20project%20final%20presentation.pdf
